@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.log
+*.cache
+**/Bussola/bin/
+**/Bussola/obj/
